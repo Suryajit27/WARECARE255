@@ -262,4 +262,4 @@ watchdog==4.0.0
     # via streamlit
 yarl==1.9.4
     # via aiohttp
-langchain_google_genai==0.1.12  # Latest version as of November 2023
+langchain_google_genai==1.0.1  # Latest version as of November 2023
